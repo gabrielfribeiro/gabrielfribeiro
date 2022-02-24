@@ -25,7 +25,7 @@ Para mim, a Stack dos sonhos deve conter Typescript ou Javascript, entretanto, e
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 
 #### Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrbrunelli&show_icons=true&theme=yeblu)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielfribeiro&show_icons=true&theme=yeblu)
 
 #### Mais utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfribeiro&layout=compact&hide=TSQL)](https://github.com/anuraghazra/github-readme-stats)
