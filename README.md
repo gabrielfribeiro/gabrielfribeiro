@@ -24,11 +24,12 @@ Para mim, a Stack dos sonhos deve conter Typescript ou Javascript, entretanto, e
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 
-#### Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielfribeiro&show_icons=true&theme=yeblu)
+<div align="start">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielfribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfribeiro&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-#### Mais utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfribeiro&layout=compact&hide=TSQL)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Minhas redes sociais
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-prado-b34720160/)](https://www.linkedin.com/in/gabriel-prado-b34720160/)
