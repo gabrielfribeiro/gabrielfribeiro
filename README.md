@@ -1,7 +1,7 @@
 ## Olá! Sou o Gabriel, seja muito bem vindo!
 
 ### Sobre mim
-Sou um Engenheiro de Software com mais de 2 anos de experiência em desenvolvimento full stack. Atualmente utilizo Node.js, Serverless e ferramentas AWS para criar soluções de Integrações, já no desenvolvimento web utilizo React com typescript e styled components.
+Sou um Engenheiro de Software com mais de 3 anos de experiência em desenvolvimento full stack. Atualmente utilizo Node.js, Serverless e ferramentas AWS para criar soluções de Integrações, já no desenvolvimento web utilizo React com typescript e styled components.
 
 Para mim, a Stack dos sonhos deve conter Typescript ou Javascript, entretanto, eu prezo pelo desenvolvimento e não digitação de código. Quando se tem um desenvolvimento não importa a stack que você está e sim a sua vontade de aprender e evoluir. 
 
